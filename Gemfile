@@ -16,7 +16,7 @@ gem 'sassc-rails'
 gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
-gem "nokogiri", ">= 1.10.8"
+gem "nokogiri", ">= 1.11.0"
 gem "rack", ">= 2.0.8"
 
 group :development do
