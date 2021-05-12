@@ -11,6 +11,7 @@
     "lodash": "^4.17.21",
     "node-forge": "^0.10.0",
     "popper.js": "^1.16.0",
+    "postcss": "^8.2.10",
     "ssri": "^8.0.1"
   },
   "devDependencies": {
