@@ -14,7 +14,8 @@
     "node-forge": "^0.10.0",
     "popper.js": "^1.16.0",
     "postcss": "^8.2.10",
-    "ssri": "^8.0.1"
+    "ssri": "^8.0.1",
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "webpack-dev-server": "^3.9.0"
